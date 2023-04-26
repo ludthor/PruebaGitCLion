@@ -1,0 +1,3 @@
+C:/Users/u202152/CLionProjects/PruebaGit/cmake-build-debug/CMakeFiles/PruebaGit.dir
+C:/Users/u202152/CLionProjects/PruebaGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/u202152/CLionProjects/PruebaGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
